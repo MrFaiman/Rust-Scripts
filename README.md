@@ -1,5 +1,5 @@
 # Rust-Scripts
-Free Rust SCripts
+Free Rust Scripts
 
 * One click and Enjoy :)
  * We aren't responsible for game bans
